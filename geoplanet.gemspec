@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
-  s.name     = "geoplanet"
+  s.name     = "elyalvarado-geoplanet"
   s.version  = "0.2.6"
-  s.date     = "2010-06-30"
+  s.date     = "2011-01-03"
   s.summary  = "A Ruby wrapper for the Yahoo! GeoPlanet API."
-  s.email    = "carlosparamio@gmail.com"
-  s.homepage = "http://github.com/carlosparamio/geoplanet/"
-  s.description = "A Ruby wrapper for the Yahoo! GeoPlanet API. It uses JSON format by default to minimize bandwidth usage. See http://developer.yahoo.com/geo/ for more information about the API."
-  s.authors  = ["Carlos Paramio"]
+  s.email    = "elyalvarado@gmail.com"
+  s.homepage = "http://github.com/elyalvarado/geoplanet/"
+  s.description = "A Ruby wrapper for the Yahoo! GeoPlanet API. It uses JSON format by default to minimize bandwidth usage. See http://developer.yahoo.com/geo/ for more information about the API. Forked from original created by Carlos Paramio (http://github.com/carlosparamio/geoplanet/"
+  s.authors  = ["Ely Alvarado"]
   
   s.files    = [
 		"README.rdoc",

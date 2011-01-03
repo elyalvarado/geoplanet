@@ -6,7 +6,7 @@ but this version supports better usage of matrix and query parameters, uses JSON
 
 == INSTALL:
 
-  gem install geoplanet
+  gem install elyalvarado-geoplanet
 
 
 == Usage
